@@ -1,0 +1,1 @@
+22075996a65428d02c6ae90e592db218# js-weather-app
